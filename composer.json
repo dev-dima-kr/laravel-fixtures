@@ -24,12 +24,12 @@
     },
     "autoload": {
         "psr-4": {
-            "dev-dima-kr\\Fixture\\": "src/"
+            "LaravelFlux\\Fixture\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "dev-dima-ek\\Tests\\Fixture\\": "tests/"
+            "LaravelFlux\\Tests\\Fixture\\": "tests/"
         }
     },
     "scripts": {
